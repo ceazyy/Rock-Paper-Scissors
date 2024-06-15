@@ -39,7 +39,3 @@ The program uses enums and functions to handle the game's logic and user interac
 - **intToChoice(int num)**: Converts an integer to the corresponding Choice.
 - **choiceToString(Choice choice)**: Converts a Choice to its string representation.
 - **determineWinner(Choice userChoice, Choice computerChoice)**: Determines the winner based on the game's rules.
-
-### Main Function
-
-The main function seeds the random number generator, prompts the user for input, validates the input, generates a random choice for the computer, and displays the choices and the result of the game.
