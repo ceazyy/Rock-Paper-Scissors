@@ -1,6 +1,7 @@
 # Rock Paper Scissors Game
 
-This is a simple implementation of the Rock Paper Scissors game in C++ where a user can play against the computer. The computer's choice is randomly generated and the winner is determined based on the classic rules of the game.
+This is a simple implementation of the Rock Paper Scissors game in C++ where a user can play against the computer. The computer's choice is randomly generated and the winner is determined based on the classic rules of the game.This is my first C++ project ever.
+
 
 ## Rules
 
